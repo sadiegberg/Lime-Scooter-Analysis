@@ -33,13 +33,15 @@ Finding	Recommendation
 Commute-hour spikes	Maximize fleet availability near transit hubs before 8am and 4pm
 Weekday dominance	Focus rebalancing resources on Monday–Friday operations
 Seasonal dip in summer	Reduce operational overhead in June–August; ramp up marketing in spring and fall
-Project Structure
+Project Structure.
 
-lime-scooter-analysis/
-│
-├── README.md                  ← You are here
-└── analysis.ipynb             ← Full Jupyter Notebook with code and findings
- 
 --- 
 
 This project was built as part of a data analytics portfolio to demonstrate skills in data cleaning, exploratory analysis, and business-oriented storytelling with real-world data.
+---
+## Tools Used
+Python · Pandas · Matplotlib · Seaborn · Jupyter Notebook
+
+## Author
+Sadie Greenberg | [LinkedIn](https://www.linkedin.com/in/sgbrg) | 
+[Email](mailto:sadieagberg@gmail.com)
