@@ -1,13 +1,13 @@
-Lime Scooter Demand Analysis — Austin, TX (2022)
+# Lime Scooter Demand Analysis — Austin, TX (2022)
 
-Project Overview
+# Project Overview
 
 This project analyzes shared micromobility trip data from Austin, Texas to answer the question:
 
 What factors influence Lime scooter demand, and how can trip patterns inform smarter fleet deployment decisions?
 Understanding when and why riders use scooters is a real operational challenge for companies like Lime. Too few scooters in the wrong place means lost revenue. Too many means unnecessary rebalancing costs. This analysis identifies the key demand drivers using publicly available city data.
 
-Data Source
+# Data Source
 
 Dataset: Shared Micromobility Vehicle Trips (2022)
 Source: City of Austin Open Data Portal
@@ -27,7 +27,7 @@ Finding 3: Spring and Fall Are Peak Seasons
 
 Ridership peaks in March–May and September–October, with a notable dip in summer. Austin’s extreme heat likely discourages outdoor riding in June–August, creating a predictable seasonal demand curve.
 
-Business Implications
+# Business Implications
 
 Finding	Recommendation
 Commute-hour spikes	Maximize fleet availability near transit hubs before 8am and 4pm
@@ -40,12 +40,6 @@ lime-scooter-analysis/
 ├── README.md                  ← You are here
 └── analysis.ipynb             ← Full Jupyter Notebook with code and findings
  
-How to Run
-
-Clone this repository
-Download the dataset from the Austin Open Data Portal (link above)
-Place the CSV in the same folder as the notebook
-Open analysis.ipynb in Jupyter Notebook and run all cells
-About
+--- 
 
 This project was built as part of a data analytics portfolio to demonstrate skills in data cleaning, exploratory analysis, and business-oriented storytelling with real-world data.
