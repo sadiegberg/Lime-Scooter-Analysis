@@ -35,9 +35,8 @@ Weekday dominance	Focus rebalancing resources on Monday–Friday operations
 Seasonal dip in summer	Reduce operational overhead in June–August; ramp up marketing in spring and fall
 Project Structure.
 
-**---**
+
 This project was built as part of a data analytics portfolio to demonstrate skills in data cleaning, exploratory analysis, and business-oriented storytelling with real-world data.
-**---**
 ## Tools Used
 Python · Pandas · Matplotlib · Seaborn · Jupyter Notebook
 
