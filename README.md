@@ -5,8 +5,9 @@ Austin, TX (2022)
 
 This project analyzes shared micromobility trip data from Austin, Texas to answer the question:
 
-What factors influence Lime scooter demand, and how can trip patterns inform smarter fleet deployment decisions?
-Understanding when and why riders use scooters is a real operational challenge for companies like Lime. Too few scooters in the wrong place means lost revenue. Too many means unnecessary rebalancing costs. This analysis identifies the key demand drivers using publicly available city data.
+What influences Lime scooter demand, and how can trip patterns inform smarter fleet deployment decisions?
+
+Understanding when and why people use scooters is a real operational challenge Lime and other companies alike. Having too few scooters in the wrong place means lost revenue. Too many means unnecessary rebalancing costs. This analysis identifies the demand drivers using publicly available city data.
 
 # Data Source
 
@@ -25,7 +26,7 @@ Demand is consistently higher on weekdays than weekends. Reinforcing that riders
 
 Finding 3: Spring and Fall Are Peak Seasons
 
-Ridership peaks in March–May and September–October, with a notable dip in summer. Texas heat likely discourages outdoor riding in June–August, creating a predictable demand curve.
+Ridership peaks in March–May and September–October, with a notable dip in summer. Here, I'm assuming that Texas heat likely discourages outdoor riding in June–August, creating a predictable (and relatable) demand curve.
 
 # Business Implications
 
