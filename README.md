@@ -1,4 +1,5 @@
-# Lime Scooter Demand Analysis — Austin, TX (2022)
+# Lime Scooter Demand Analysis
+Austin, TX (2022)
 
 # Project Overview
 
@@ -13,19 +14,18 @@ Dataset: Shared Micromobility Vehicle Trips (2022)
 Source: City of Austin Open Data Portal
 Rows analyzed: 828,506 scooter trips
 Tools used: Python, pandas, matplotlib, Jupyter Notebook
-Key Findings
 
 Finding 1: Demand Peaks During Commute Hours
 
-Rides spike sharply at 8am and 4–6pm, matching classic commuter patterns. Overnight hours (12am–5am) see minimal activity. This strongly suggests a large portion of Lime’s Austin ridership uses scooters as a last-mile commute solution.
+Rides spike sharply at 8am and 4–6pm, matching classic commuter patterns, suggesting a large portion of Lime’s Austin ridership uses scooters as a last-mile commute solution.
 
 Finding 2: Weekday Usage Dominates
 
-Demand is consistently higher on weekdays than weekends. This reinforces the commuter-use pattern — riders are primarily using scooters to get to and from work, not for weekend leisure.
+Demand is consistently higher on weekdays than weekends. Reinforcing that riders are primarily using scooters to get to and from work, not for leisure.
 
 Finding 3: Spring and Fall Are Peak Seasons
 
-Ridership peaks in March–May and September–October, with a notable dip in summer. Austin’s extreme heat likely discourages outdoor riding in June–August, creating a predictable seasonal demand curve.
+Ridership peaks in March–May and September–October, with a notable dip in summer. Texas heat likely discourages outdoor riding in June–August, creating a predictable demand curve.
 
 # Business Implications
 
@@ -36,7 +36,6 @@ Seasonal dip in summer	Reduce operational overhead in June–August; ramp up mar
 Project Structure.
 
 --- 
-
 This project was built as part of a data analytics portfolio to demonstrate skills in data cleaning, exploratory analysis, and business-oriented storytelling with real-world data.
 ---
 ## Tools Used
